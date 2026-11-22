@@ -1,0 +1,125 @@
+body {
+  background-color: #0B0F19;
+  color: #F8FAFC;
+  font-family: Inter, Roboto, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+  text-decoration: none;
+  text-transform: none;
+}
+
+h1 {
+  background-color: transparent;
+  color: #F8FAFC;
+  font-family: Inter, Roboto, Arial, sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 50px;
+  letter-spacing: -0.5px;
+  text-align: left;
+  text-decoration: none;
+  text-transform: none;
+}
+
+h2 {
+  background-color: transparent;
+  color: #F8FAFC;
+  font-family: Inter, Roboto, Arial, sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 36px;
+  letter-spacing: -0.3px;
+  text-align: left;
+  text-decoration: none;
+  text-transform: none;
+}
+
+p {
+  background-color: transparent;
+  color: #CBD5E1;
+  font-family: Inter, Roboto, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+  text-decoration: none;
+  text-transform: none;
+}
+
+a {
+  background-color: transparent;
+  color: #60A5FA;
+  font-family: Inter, Roboto, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+  text-decoration: underline;
+  text-transform: none;
+}
+
+header a {
+  background-color: rgba(17, 24, 39, 0.9);
+  color: #E2E8F0;
+  font-family: Inter, Roboto, Arial, sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 22px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: none;
+}
+
+button {
+  background-color: #2563EB;
+  color: #FFFFFF;
+  font-family: Inter, Roboto, Arial, sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 20px;
+  letter-spacing: 0.4px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.price {
+  background-color: rgba(127, 29, 29, 0.65);
+  color: #FCA5A5;
+  font-family: Inter, Roboto, Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 26px;
+  letter-spacing: 0.5px;
+  text-align: left;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+footer {
+  background-color: #060911;
+  color: #94A3B8;
+  font-family: Inter, Roboto, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 22px;
+  letter-spacing: 0px;
+  text-align: left;
+  text-decoration: none;
+  text-transform: none;
+}
